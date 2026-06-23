@@ -37,6 +37,9 @@ dependencies:
 
   http: ^1.2.0
 
+  shared_preferences: ^2.5.5
+  smooth_page_indicator: ^2.0.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
